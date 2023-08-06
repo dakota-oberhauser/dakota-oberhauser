@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @dakota-oberhauser
 - 👀 I’m interested in providing solutions to customers, through software, engineering, machine learning and analytics.
 - 🌱 I’m currently learning to expand my capabilites in ML, Front End, Software Engineering and leading efforts.
-- 📫 How to reach me dakota.oberhauser@gmail.com
+- 📫 How to reach me dakota.oberhauser.dev@gmail.com
